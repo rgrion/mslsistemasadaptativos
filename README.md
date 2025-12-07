@@ -39,6 +39,7 @@ C – Contexto: educação digital e ambientes de e-learning.
 ├── figures/               # Diagramas PRISMA, gráficos e ilustrações
 ├── code/                  # Código auxiliar usado na organização/análise
 └── README.md              # Este arquivo
+/
 
 🧪 Metodologia
 
@@ -49,7 +50,7 @@ O processo segue diretrizes reconhecidas para revisões sistemáticas:
 - Síntese e categorização das evidências.
 - Identificação de tendências, lacunas e oportunidades futuras de pesquisa.
 
-- 🔄 Reprodutibilidade
+🔄 Reprodutibilidade
 
 O repositório foi construído para permitir:
 - Replicação completa do processo metodológico.
