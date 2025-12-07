@@ -25,21 +25,23 @@ O estudo investiga:
 
 ## Escopo segundo o PICOC
 
-P – População: estudantes, ambientes virtuais de aprendizagem, cursos online, educação a distância.
-I – Intervenção: sistemas adaptativos baseados em IA, personalização, ajuste dinâmico de conteúdo.
-C – Comparação: —
-O – Desfechos: engajamento, desempenho, experiência de aprendizagem, personalização.
-C – Contexto: educação digital e ambientes de e-learning.
+- **P – População:** estudantes, ambientes virtuais de aprendizagem, cursos online, educação a distância.
+- **I – Intervenção:** sistemas adaptativos baseados em IA, personalização, ajuste dinâmico de conteúdo.
+- **C – Comparação:** —
+- **O – Desfechos:** engajamento, desempenho, experiência de aprendizagem, personalização.
+- **C – Contexto:** —
 
 ## Estrutura do Repositório
 ```
-├── search-strings/        # Strings de busca utilizadas nas bases
-├── screening/             # Documentos e planilhas das fases de triagem
-├── data-extraction/       # Formulários e planilhas de extração
-├── analysis/              # Scripts, tabelas e sínteses dos resultados
-├── figures/               # Diagramas PRISMA, gráficos e ilustrações
-├── code/                  # Código auxiliar usado na organização/análise
-└── README.md              # Este arquivo
+├── LICENSE/                               # Arquivo de licença (CC BY 4.0) aplicável ao repositório
+├── README.md/                             # Documento principal de descrição e instruções do repositório
+├── data_analysis.pdf/                     # Relatório de análise de dados gerado ao longo do Mapeamento Sistemático
+├── estudos_adaptativos.csv                # Dataset utilizado no código do notebook (sistemas_adaptativos_ia.ipynb)
+├── imported_studies.xls/                  # Planilha com os estudos importados nas fases iniciais do MSL
+├── quality_assessment.pdf/                # Documento com avaliação da qualidade dos estudos incluídos
+├── relatorio_mapeamento_sistematico.md/   # Relatório final do mapeamento em formato Markdown
+├── relatorio_mapeamento_sistematico.pdf/  # Versão PDF do relatório final do mapeamento sistemático
+└── sistemas_adaptativos_ia.ipynb          # Notebook contendo scripts, análises e visualizações do estudo
 ```
 
 ## Metodologia
@@ -63,8 +65,8 @@ O repositório foi construído para permitir:
 Este repositório está licenciado sob:
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 Isso significa que qualquer pessoa pode:
-- Compartilhar — copiar e redistribuir o material em qualquer formato;
-- Adaptar — remixar, transformar e criar a partir do material, inclusive para fins comerciais;
+**Compartilhar** — copiar e redistribuir o material em qualquer formato;
+**Adaptar** — remixar, transformar e criar a partir do material, inclusive para fins comerciais;
 Desde que sejam dados os devidos créditos ao trabalho original (após o período de avaliação anônima).
 
 ## Observação Importante
